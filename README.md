@@ -1,2 +1,2 @@
 # Data-Analysis-Student-Study-Time-and-Grades
-This is data science projext that explores data with python and creates visualizations of the data. This project is https://learn.microsoft.com/en-us/training/modules/explore-analyze-data-with-python/3-exercise-explore-data
+This is data science projext that explores student student time and grades data with python and creates visualizations of the data. This project follows the training provided by Micrtosoft Learn as seen in the link that follows: https://learn.microsoft.com/en-us/training/modules/explore-analyze-data-with-python/3-exercise-explore-data. Code is written in Python. Tools used inlcude: NumPy, Pandas, and Matplotlib.
